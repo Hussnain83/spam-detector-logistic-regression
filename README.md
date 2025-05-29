@@ -68,7 +68,7 @@ This project is intended for educational and non-commercial use. Contributions a
 
 **[Muhammad Hussnain Dogar]**  
 Machine Learning Enthusiast  
-GitHub: [Hussnain83S]
+GitHub: [Hussnain83]
 
 ---
 
