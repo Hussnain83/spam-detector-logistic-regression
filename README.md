@@ -4,6 +4,8 @@ This project is a machine learning solution designed to classify SMS messages as
 
 ---
 
+We have used the dataset of spam2.csv for training our model.
+
 ## 📌 Project Overview
 
 The aim of this project is to detect unwanted spam messages by training a model on a dataset of labeled SMS messages. This is achieved through a carefully constructed ML pipeline that includes text preprocessing, feature extraction using TF-IDF, and Logistic Regression for classification. Additionally, SMOTE is applied to address class imbalance and improve recall for the minority class (spam messages).
@@ -51,8 +53,6 @@ The final trained pipeline is saved using joblib, enabling seamless integration 
 ## 🚀 Future Improvements
 
 - Explore alternative models like KNN, Random Forest, or SVM
-- Deploy the model as a web application using Flask or FastAPI
-- Integrate a user-friendly frontend interface
 - Enhance dataset with more recent or diverse messages
 - Experiment with deep learning (e.g., LSTM or BERT)
 
